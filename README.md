@@ -6,7 +6,7 @@
 
 ## Aim: 
 	To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. 
- <BR>
+ 
  
 ## Algorithm:
 Step 1: Import the nltk library.<br>
