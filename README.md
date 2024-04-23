@@ -5,7 +5,7 @@
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## Aim: 
-	To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. 
+To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. 
  
  
 ## Algorithm:
